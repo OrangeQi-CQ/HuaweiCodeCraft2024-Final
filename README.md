@@ -6,26 +6,20 @@
 - [决赛赛题](https://bbs.huaweicloud.com/forum/thread-02107148304313640001-1-1.html)（docs目录中也有）
 - [决赛获奖名单](https://competition.huaweicloud.com/advance/1000042021/html13)，[获奖颁奖推文](https://mp.weixin.qq.com/s?__biz=MzIyMjAwNTU2Mg==&mid=2651077568&idx=2&sn=c7c8af782f809f2f89ee25b5e2aaed81&chksm=f3c48b95c4b302834c3c61c31cb186cf02ea9b1a466a97027121aaaaf5f8b90b96c27b09a168&mpshare=1&scene=2&srcid=0429mxdk36FwhpDmRiD7EQzJ&sharer_shareinfo=9a749603b1f7caea014b25fb36ba9d42&sharer_shareinfo_first=9a749603b1f7caea014b25fb36ba9d42#rd)
 
-![决赛获奖名单](img/获奖名单.png){width=33%}
-
-![2024华为软挑决赛开始](img/决赛开始.jpg)
-
-
-![2024华为软挑决赛落幕](img/决赛落幕.jpg)
-
 ------
 
 这是 2024 华为软件精英挑战赛 **“适可而止矣，涓埃之事，亦央原神”** 队的决赛代码。
-
-PS：
-1. 本仓库仅复制我们决赛所用仓库的 main 分支，也删除了 `judge` 目录中的判题器和回放器等。**由于决赛期间涉及华为的大模型，本仓库中删除了相关的接口地址与密钥，这会导致代码无法正常运行。本仓库仅作算法实现上的参考。**
-2. 深大王前明小哥哥，人帅气质佳性格好，单身。
 
 我们属于**粤港澳赛区**，三名队员（[cq](https://github.com/OrangeQi-CQ)、[yhf](https://github.com/yhf4aspe)、[xsf](https://github.com/zzwtx)）都来自**华南理工大学**。在2024华为软件精英挑战赛中成绩如下：
 
 - 初赛：**粤港澳赛区冠军**
 - 复赛：**粤港澳赛区冠军、全国第 2 名**
 - 决赛：**全球总决赛第 4 名（季军/三等奖）**
+
+
+PS：
+1. 本仓库仅复制我们决赛所用仓库的 main 分支，也删除了 `judge` 目录中的判题器和回放器等。**由于决赛期间涉及华为的大模型，本仓库中删除了相关的接口地址与密钥，这会导致代码无法正常运行。本仓库仅作算法实现上的参考。**
+2. 深大王前明小哥哥，人帅气质佳性格好，单身。
 
 ------
 
