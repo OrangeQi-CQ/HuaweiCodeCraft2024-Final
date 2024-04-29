@@ -1,0 +1,1 @@
+ g++ test/question.cpp src/question.cpp src/config.cpp -lcurl -o test.out -std=c++17 && ./test.out

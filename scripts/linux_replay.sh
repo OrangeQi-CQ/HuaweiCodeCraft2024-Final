@@ -1,0 +1,1 @@
+cd build/judge/linux/replay && ./../replayer/CodeCraft_2024_Replayer_final.x86_64

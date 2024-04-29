@@ -1,0 +1,1 @@
+zip -r $(date +"%m-%d_%H-%M-%S").zip src/
