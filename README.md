@@ -1,10 +1,19 @@
-# 2024 华为软件精英挑战赛总决赛
+# 2024 华为软件精英挑战赛
 
 比赛基本信息：
 
 - [比赛官网](https://developer.huaweicloud.com/codecraft2024)
-- [决赛赛题](https://bbs.huaweicloud.com/forum/thread-02107148304313640001-1-1.html)
-- [决赛获奖名单](https://competition.huaweicloud.com/advance/1000042021/html13)，[获奖名单推文](https://mp.weixin.qq.com/s?__biz=MzIyMjAwNTU2Mg==&mid=2651077568&idx=2&sn=c7c8af782f809f2f89ee25b5e2aaed81&chksm=f3c48b95c4b302834c3c61c31cb186cf02ea9b1a466a97027121aaaaf5f8b90b96c27b09a168&mpshare=1&scene=2&srcid=0429mxdk36FwhpDmRiD7EQzJ&sharer_shareinfo=9a749603b1f7caea014b25fb36ba9d42&sharer_shareinfo_first=9a749603b1f7caea014b25fb36ba9d42#rd)
+- [决赛赛题](https://bbs.huaweicloud.com/forum/thread-02107148304313640001-1-1.html)（docs目录中也有）
+- [决赛获奖名单](https://competition.huaweicloud.com/advance/1000042021/html13)，[获奖颁奖推文](https://mp.weixin.qq.com/s?__biz=MzIyMjAwNTU2Mg==&mid=2651077568&idx=2&sn=c7c8af782f809f2f89ee25b5e2aaed81&chksm=f3c48b95c4b302834c3c61c31cb186cf02ea9b1a466a97027121aaaaf5f8b90b96c27b09a168&mpshare=1&scene=2&srcid=0429mxdk36FwhpDmRiD7EQzJ&sharer_shareinfo=9a749603b1f7caea014b25fb36ba9d42&sharer_shareinfo_first=9a749603b1f7caea014b25fb36ba9d42#rd)
+
+![决赛获奖名单](img/获奖名单.png){width=33%}
+
+![2024华为软挑决赛开始](img/决赛开始.jpg)
+
+
+![2024华为软挑决赛落幕](img/决赛落幕.jpg)
+
+大家好，我们是来自华南理工大学的“适可而止矣，涓埃之事，亦央原神”队。我们在本届华为软挑的成绩为：初赛粤港澳赛区冠军；复赛粤港澳赛区冠军（全国第2）；全球总决赛第4名。这是我们的决赛代码仓库，欢迎大家 star 
 
 ------
 
