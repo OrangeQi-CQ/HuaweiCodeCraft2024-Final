@@ -13,7 +13,7 @@
 
 这是 2024 华为软件精英挑战赛 **“适可而止矣，涓埃之事，亦央原神”** 队的决赛代码。
 
-我们属于**粤港澳赛区**，三名队员（[cq](https://github.com/OrangeQi-CQ)、[yhf](https://github.com/yhf4aspe)、[xsf](https://github.com/zzwtx)）都来自**华南理工大学**。在2024华为软件精英挑战赛中成绩如下：
+我们属于**粤港澳赛区**，三名队员（[cq](https://github.com/OrangeQi-CQ)、[yhf](https://github.com/yhf4aspe)、[xsf](https://github.com/zzwtx)）都是来自**华南理工大学**的本科生。在2024华为软件精英挑战赛中成绩如下：
 
 - 初赛：**粤港澳赛区冠军**
 - 复赛：**粤港澳赛区冠军、全国第 2 名**
