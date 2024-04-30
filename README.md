@@ -2,9 +2,12 @@
 
 比赛基本信息：
 
-- [比赛官网](https://developer.huaweicloud.com/codecraft2024)，[宣传片](https://wap.peopleapp.com/video/rmh40901762/rmh40901762)
-- [决赛赛题](https://bbs.huaweicloud.com/forum/thread-02107148304313640001-1-1.html)（docs目录中也有）
-- [决赛获奖名单](https://competition.huaweicloud.com/advance/1000042021/html13)，[决赛颁奖推文](https://mp.weixin.qq.com/s?__biz=MzIyMjAwNTU2Mg==&mid=2651077568&idx=2&sn=c7c8af782f809f2f89ee25b5e2aaed81&chksm=f3c48b95c4b302834c3c61c31cb186cf02ea9b1a466a97027121aaaaf5f8b90b96c27b09a168&mpshare=1&scene=2&srcid=0429mxdk36FwhpDmRiD7EQzJ&sharer_shareinfo=9a749603b1f7caea014b25fb36ba9d42&sharer_shareinfo_first=9a749603b1f7caea014b25fb36ba9d42#rd)
+- [2024华为软挑比赛官网](https://developer.huaweicloud.com/codecraft2024)
+- [2024华为软挑宣传推文](https://mp.weixin.qq.com/s/9DLysYicqrx1mgqiDfQ2Lw)
+- [2024华为软挑人民日报宣传片](https://wap.peopleapp.com/video/rmh40901762/rmh40901762)
+- [总决赛赛题](https://bbs.huaweicloud.com/forum/thread-02107148304313640001-1-1.html)（docs目录中也有）
+- [总决赛获奖名单](https://competition.huaweicloud.com/advance/1000042021/html13)
+- [总决赛结果推文](https://mp.weixin.qq.com/s?__biz=MzIyMjAwNTU2Mg==&mid=2651077568&idx=2&sn=c7c8af782f809f2f89ee25b5e2aaed81&chksm=f3c48b95c4b302834c3c61c31cb186cf02ea9b1a466a97027121aaaaf5f8b90b96c27b09a168&mpshare=1&scene=2&srcid=0429mxdk36FwhpDmRiD7EQzJ&sharer_shareinfo=9a749603b1f7caea014b25fb36ba9d42&sharer_shareinfo_first=9a749603b1f7caea014b25fb36ba9d42#rd)
 
 ------
 
